@@ -1,0 +1,21 @@
+/* For inline code */
+code {
+    background-color: #e7e7e7; /* Change this color */
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #c91313; /* Optional: Change text color */
+}
+
+/* For fenced code blocks */
+pre {
+    background-color: #272822; /* Monokai background color */
+    color: #f8f8f2; /* Monokai text color */
+    padding: 16px;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+pre code {
+    background-color: transparent; /* Ensure no extra background for code inside pre */
+    color: inherit;
+}
