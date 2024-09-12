@@ -28,8 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 github_username:  Marc416
-baseurl: ''
-url: 'https://marc416.github.io'
+baseurl: ""
+url: "https://marc416.github.io"
 highlighter-theme: monokai
 highlighter: rouge
 category_dir: category/
